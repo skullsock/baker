@@ -8,7 +8,7 @@ body {
     padding: .1em;
     border: none;
     font-size: .7em;
-    color: #b48484;
+    color: #9d005b;
     text-align: center;
   }
 }
@@ -29,7 +29,7 @@ p:hover {
 .title {
   text-align: center;
   font-size: 2.6em;
-  font-style: helvetica sans-serif;
+  font-style: Arial sans-serif;
 }
 
 .header1 {
@@ -52,7 +52,7 @@ p:hover {
 .table p {
   font-size: .7em;
   margin: 0 0 0 .7em;
-  color: #b48484;
+  color: #9D005B;
   text-align: center;
 }
 
@@ -75,7 +75,7 @@ p:hover {
     padding: .1em;
     border: none;
     font-size: .7em;
-    color: #b48484;
+    color: #9D005B;
     text-align: center;
   }
 }
