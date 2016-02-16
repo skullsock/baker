@@ -1,0 +1,83 @@
+body {
+  background-color: #e6e6e6;
+}
+
+@media screen and (min-width: 400px) {
+  .navbar p {
+    margin: 1.4em 4.3em .1em .8em;
+    padding: .1em;
+    border: none;
+    font-size: .7em;
+    color: #b48484;
+    text-align: center;
+  }
+}
+
+p:hover {
+  background-color: grey;
+}
+
+.sidebar ul {
+  display: none;
+}
+
+.sidebar h3 {
+  text-align: center;
+  font-size: 1em;
+}
+
+.title {
+  text-align: center;
+  font-size: 2.6em;
+  font-style: helvetica sans-serif;
+}
+
+.header1 {
+  font-size:
+}
+
+.main h1 {
+  font-size: 1.5em;
+}
+
+.main h4 {
+  padding: .5em;
+}
+
+.main h2 {
+  font-size: 1.6em;
+  text-align: center;
+}
+
+.table p {
+  font-size: .7em;
+  margin: 0 0 0 .7em;
+  color: #b48484;
+  text-align: center;
+}
+
+ .table img {
+  width: 11.2em;
+  height: 11.2em;
+  margin: .1em .1em 0 0;
+  padding: .1em;
+  border-radius: 10px 10px 10px 10px;
+
+}
+
+.footer h6 {
+  text-align: center;
+}
+
+@media screen and (max-width: 760px) {
+  .navbar p {
+    margin: 1.4em 4.3em .1em .8em;
+    padding: .1em;
+    border: none;
+    font-size: .7em;
+    color: #b48484;
+    text-align: center;
+  }
+}
+
+}
